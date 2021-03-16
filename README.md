@@ -1,2 +1,2 @@
 # Selenium-Python-Course
-_to store resolved exercises [course link](https://stepik.org/course/575/) _
+#### to store resolved exercises for *[course link](https://stepik.org/course/575/)*
